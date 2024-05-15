@@ -1,0 +1,45 @@
+*
+{
+    marnig: 0;
+padding:  0 ;
+}
+  .cabeçalho
+{
+background-color: #7f8194;
+color: #1b2043;
+display:flex ;
+justify-content: space-around
+aling-items:center;
+padding: 24px 0;
+}
+.logo-colegio
+{
+    width: 20px%; */
+    justifty-content:space-arround
+}
+.nomedaescola
+{
+   display: flex;
+   justify-content: space-around;
+    align-items: center;
+    pading: 24px 0;
+}
+.lista
+  {
+  color:black  
+   display: flex;
+justify-content: space-arround;
+
+
+  }
+
+
+
+ 
+
+
+
+
+
+
+
