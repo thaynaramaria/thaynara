@@ -1,16 +1,16 @@
 *
 {
     marnig: 0;
-padding:  0 ;
+    padding: 0 ;
 }
   .cabeçalho
 {
 background-color: #7f8194;
 color: #1b2043;
-display:flex ;
-justify-content: space-around
-aling-items:center;
-padding: 24px 0;
+ display:flex ;
+ justify-content: space-around
+ aling-items:center;
+ padding: 24px 0;
 }
 .logo-colegio
 {
@@ -21,21 +21,45 @@ padding: 24px 0;
 {
    display: flex;
    justify-content: space-around;
-    align-items: center;
-    pading: 24px 0;
+   align-items: center;
+   pading: 24px 0;
 }
 .lista
   {
   color:black  
    display: flex;
-justify-content: space-arround;
-
-
+justify-cotnent space-arround;
+ aling-items: center;
   }
+.body
+{
+  background-image: linear-gradient(#9698a5,#FFFFFF);
+  color: Black;
+    justify-cotnent: center ;
+  padding: 24px 0;
+{
 
+. rodapeimagem 
+{width:1435px;}
 
+.iconefecebook
+{width:60px ;
+  padding: 4px 8px;}
 
- 
+. nomeInstagram 
+{width: 60px ;
+  padding: 4px 8px;}
+
+.nomefecebook
+{padding: 24px 0}
+
+.nomeInstagram 
+{padding: 24px 0}
+
+.links
+{width: 35%
+   text-aling: center;
+   padding: 16px 0}
 
 
 
