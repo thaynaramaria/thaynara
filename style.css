@@ -15,7 +15,7 @@ color: #1b2043;
 .logo-colegio
 {
     width: 20px%; */
-    justifty-content:space-arround
+    justifty-content:center;
 }
 .nomedaescola
 {
@@ -28,24 +28,33 @@ color: #1b2043;
   {
   color:black  
    display: flex;
-justify-cotnent space-arround;
- aling-items: center;
+   justify-cotnent :space-arround;
+   aling-items: center;
+  
   }
-.body
-{
-  background-image: linear-gradient(#9698a5,#FFFFFF);
-  color: Black;
-    justify-cotnent: center ;
-  padding: 24px 0;
-{
+.lista a:active
+{color: purple;
+}
 
-. rodapeimagem 
+.body
+
+  {background-image: linear-gradient(#454a64,#FFFFFF);
+    color: black;
+  justify-content:center ;
+   padding: 24px 0; 
+  }
+.rodapeimagem 
 {width:1435px;}
 
 .iconefecebook
 {width:60px ;
-  padding: 4px 8px;}
-
+  padding: 4px 8px; 
+  display: flex;
+ justify-content: space-around;
+align-items: center;
+}
+  
+  
 . nomeInstagram 
 {width: 60px ;
   padding: 4px 8px;}
