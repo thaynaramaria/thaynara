@@ -9,29 +9,29 @@ background-color: #7f8194;
 color: #1b2043;
  display:flex ;
  justify-content: space-around
- aling-items:center;
+ alin
  padding: 24px 0;
 }
 .logo-colegio
 {
-    width: 20px%; */
-    justifty-content:center;
-}
+    width: 20px;
+  justify-content: center;
+align-items: center;}
 .nomedaescola
 {
    display: flex;
    justify-content: space-around;
    align-items: center;
-   pading: 24px 0;
+   padding:24px 0;
 }
 .lista
   {
-  color:black  
-   display: flex;
-   justify-cotnent :space-arround;
-   aling-items: center;
-  
-  }
+  color:black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
 .lista a:active
 {color: purple;
 }
@@ -40,43 +40,44 @@ color: #1b2043;
   {
     background-image: linear-gradient(#454a64,#FFFFFF);
     color: black;
-      justify-content:center ;
+    justify-content:center ;
      padding: 24px 0; 
   }
 .rodapeimagem 
 { 
-  width:1435px;
+    width:1435px;
 }
 .iconefecebook
 {
-  width:60px ;
+width:60px ;
   padding: 4px 8px; 
   display: flex;
- justify-content: space-around;
-align-items: center;
+  justify-content: space-around;
+  align-items: center;
 }
 .iconeinstagram
 {
   width:60px;
-padding:4px 8px;
-display: flex
-justify-content: space-around;
-aling-items:center
+  padding:4px 8px;
+  display: flex
+  justify-content: space-around;
+   aling-items:center
 }
 .nomefecebook
 {
   padding: 24px 0
 }
-.nomeInstagram 
+.nomeinstagram 
 {
   padding: 24px 0
 }
 .links
 {
   
-  width: 35%
-   text-aling: center;
-   padding: 16px 0
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     padding: 16px 0;
   }
 .containe_botao
  {
@@ -85,9 +86,18 @@ aling-items:center
      padding: 1em;
   color: var(--branco-principal);
   display: block;
+  justify-content: space-around;
+  align-items: center;
 }
 .botaes
-{background-color: #7f8194;}
-
+{
+      background-color: #7f8194;
+      color: #1b2043;
+      }
+  .rodapetexto
+  {display: flex;
+  justify-content: space-around;
+align-items: center;
+} 
 
 
